@@ -19,7 +19,7 @@ int main (int argc, const char * argv[])
     }
     fclose(f);
     // insert code here...
-    printf("Hello, World - SUKA!!!!!!\n");
+    printf("Hello, World - SUKA!!!!!! GG\n");
     return 0;
 }
 
